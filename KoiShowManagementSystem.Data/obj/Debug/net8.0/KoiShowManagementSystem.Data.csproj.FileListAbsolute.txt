@@ -1,0 +1,28 @@
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.deps.json
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.runtimeconfig.json
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.csproj.AssemblyReference.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.AssemblyInfoInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.AssemblyInfo.cs
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\refint\KoiShowManagementSystem.Data.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.genruntimeconfig.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Data\obj\Debug\net8.0\ref\KoiShowManagementSystem.Data.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.deps.json
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.runtimeconfig.json
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.csproj.AssemblyReference.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.AssemblyInfoInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.AssemblyInfo.cs
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\refint\KoiShowManagementSystem.Data.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.genruntimeconfig.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\ref\KoiShowManagementSystem.Data.dll

@@ -1,0 +1,84 @@
+﻿@model IEnumerable<KoiShowManagementSystem.Data.Models.Result>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="ResultCreate">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JudgesId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Medal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Own)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rank)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EvaluationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Disqualification)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prize)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.JudgesId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Own)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Score)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rank)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EvaluationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Disqualification)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prize)
+            </td>
+            <td>
+                <a asp-action="ResultEdit" asp-route-id="@item.ResultId">Edit</a> |
+                <a asp-action="ResultDetails" asp-route-id="@item.ResultId">Details</a> |
+                <a asp-action="ResultDelete" asp-route-id="@item.ResultId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,75 @@
+﻿@model KoiShowManagementSystem.Data.Models.Result  
+@* @model KoiShowManagementSystem.MVCWebApp.Models.Result  *@
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Result</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ResultEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ResultId" />
+            <div class="form-group">
+                <label asp-for="@Model.JudgesId" class="control-label"></label>
+                <select asp-for="@Model.JudgesId" class="form-control" asp-items="ViewBag.JudgesId"></select>
+                @* <span asp-validation-for="@Model.JudgesId" class="text-danger"></span> *@
+            </div>
+            <div class="form-group">
+                <label asp-for="Medal" class="control-label"></label>
+                <input asp-for="Medal" class="form-control" />
+                <span asp-validation-for="Medal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Own" class="control-label"></label>
+                <input asp-for="Own" class="form-control" />
+                <span asp-validation-for="Own" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Score" class="control-label"></label>
+                <input asp-for="Score" class="form-control" />
+                <span asp-validation-for="Score" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Rank" class="control-label"></label>
+                <input asp-for="Rank" class="form-control" />
+                <span asp-validation-for="Rank" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Comment" class="control-label"></label>
+                <input asp-for="Comment" class="form-control" />
+                <span asp-validation-for="Comment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EvaluationDate" class="control-label"></label>
+                <input asp-for="EvaluationDate" class="form-control" type="date" />
+                <span asp-validation-for="EvaluationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Disqualification" class="control-label"></label>
+                <input asp-for="Disqualification" class="form-control" />
+                <span asp-validation-for="Disqualification" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prize" class="control-label"></label>
+                <input asp-for="Prize" class="form-control" />
+                <span asp-validation-for="Prize" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ResultIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

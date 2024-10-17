@@ -1,0 +1,22 @@
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.deps.json
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfoInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfo.cs
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.csproj.CoreCompileInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.deps.json
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfoInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfo.cs
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.csproj.CoreCompileInputs.cache
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IbU7ICmDieAZ16rS8u00dhxPu98yqX0FUsM5OcRLQ3c=",
+  "Source": "KoiShowManagementSystem.APIService",
+  "BasePath": "_content/KoiShowManagementSystem.APIService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
