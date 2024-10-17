@@ -32,3 +32,21 @@ C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowMana
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Service\obj\Debug\net8.0\refint\KoiShowManagementSystem.Service.dll
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.pdb
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Service\obj\Debug\net8.0\ref\KoiShowManagementSystem.Service.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Service.deps.json
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Service.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Service.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Common.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Data.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.csproj.AssemblyReference.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.AssemblyInfoInputs.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.AssemblyInfo.cs
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.csproj.CoreCompileInputs.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.sourcelink.json
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowM.7F52DE06.Up2Date
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\refint\KoiShowManagementSystem.Service.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Service\obj\Debug\net8.0\ref\KoiShowManagementSystem.Service.dll

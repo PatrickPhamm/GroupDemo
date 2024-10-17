@@ -13,6 +13,8 @@ namespace KoiShowManagementSystem.Data
         private FA24_SE1717_PRN231_G2_KoiShowManagementSystemContext context;
         private ResultRepository _resultRepository;
         private JudgeRepository _judgeRepository;
+        private JudgesCriteriaRepository judgesCriteriarepository;
+        private ContestRepository _contestRepository;
 
         public UnitOfWork() {
             context ??= new FA24_SE1717_PRN231_G2_KoiShowManagementSystemContext();
@@ -26,6 +28,15 @@ namespace KoiShowManagementSystem.Data
         public JudgeRepository judgeRepository
         {
             get { return _judgeRepository ??= new JudgeRepository(context); }
+        }
+
+        public JudgesCriteriaRepository JudgesCriteriaRepo
+        {
+            get { return judgesCriteriarepository ??= new JudgesCriteriaRepository(context); }
+        }
+        public ContestRepository contestRepository
+        {
+            get { return _contestRepository ??= new ContestRepository(context); }
         }
 
         ////TO-DO CODE HERE/////////////////

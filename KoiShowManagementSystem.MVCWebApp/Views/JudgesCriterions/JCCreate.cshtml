@@ -1,0 +1,73 @@
+﻿@model KoiShowManagementSystem.Data.Models.JudgesCriterion
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>JudgesCriterion</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="JCCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="@Model.ContestId" class="control-label"></label>
+                <select asp-for="@Model.ContestId" class="form-control" asp-items="ViewBag.ContestId"></select>
+                <span asp-validation-for="@Model.ContestId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Point" class="control-label"></label>
+                <input asp-for="Point" class="form-control" />
+                <span asp-validation-for="Point" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Expertise" class="control-label"></label>
+                <input asp-for="Expertise" class="form-control" />
+                <span asp-validation-for="Expertise" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Species" class="control-label"></label>
+                <input asp-for="Species" class="form-control" />
+                <span asp-validation-for="Species" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Weight" class="control-label"></label>
+                <input asp-for="Weight" class="form-control" />
+                <span asp-validation-for="Weight" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Size" class="control-label"></label>
+                <input asp-for="Size" class="form-control" />
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Color" class="control-label"></label>
+                <input asp-for="Color" class="form-control" />
+                <span asp-validation-for="Color" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="JCIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

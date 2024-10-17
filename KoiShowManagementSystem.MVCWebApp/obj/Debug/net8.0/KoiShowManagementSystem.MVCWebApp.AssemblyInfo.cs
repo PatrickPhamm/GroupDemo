@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KoiShowManagementSystem.MVCWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6346984c2c3a04bc5d0838a42484319ecba1d806")]
 [assembly: System.Reflection.AssemblyProductAttribute("KoiShowManagementSystem.MVCWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KoiShowManagementSystem.MVCWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

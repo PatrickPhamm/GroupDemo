@@ -20,3 +20,15 @@ C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowMana
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.deps.json
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfoInputs.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfo.cs
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.csproj.CoreCompileInputs.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.sourcelink.json
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll

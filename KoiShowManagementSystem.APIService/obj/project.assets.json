@@ -1341,7 +1341,7 @@
           "Mono.TextTemplating": "2.2.1"
         },
         "compile": {
-          "lib/net8.0/_._": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll": {
             "related": ".xml"
           }
         },
@@ -8546,19 +8546,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Phi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
+      "projectUniqueName": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
       "projectName": "KoiShowManagementSystem.APIService",
-      "projectPath": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.APIService\\obj\\",
+      "projectPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
+      "packagesPath": "C:\\Users\\Phi\\.nuget\\packages\\",
+      "outputPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.APIService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Phi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8566,18 +8571,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Admin\\.nuget\\packages": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj": {
-              "projectPath": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj"
+            "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj": {
+              "projectPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj"
             },
-            "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj": {
-              "projectPath": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj"
+            "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj": {
+              "projectPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj"
             }
           }
         }
@@ -8602,8 +8607,6 @@
             "version": "[8.0.8, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[8.0.8, )"
           },
@@ -8635,7 +8638,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

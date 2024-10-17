@@ -26,3 +26,18 @@ C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowMana
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.pdb
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.genruntimeconfig.cache
 C:\MyProfile\BaiHoc\Semester_8\PRN231\Projects\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\KoiShowManagementSystem.Data\obj\Debug\net8.0\ref\KoiShowManagementSystem.Data.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.deps.json
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.runtimeconfig.json
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\bin\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.csproj.AssemblyReference.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.AssemblyInfoInputs.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.AssemblyInfo.cs
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.csproj.CoreCompileInputs.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.sourcelink.json
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\refint\KoiShowManagementSystem.Data.dll
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\KoiShowManagementSystem.Data.genruntimeconfig.cache
+E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Data\obj\Debug\net8.0\ref\KoiShowManagementSystem.Data.dll

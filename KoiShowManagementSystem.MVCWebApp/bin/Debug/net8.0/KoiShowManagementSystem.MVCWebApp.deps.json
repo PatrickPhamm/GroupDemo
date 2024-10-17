@@ -1973,6 +1973,7 @@
           "KoiShowManagementSystem.Data": "1.0.0",
           "KoiShowManagementSystem.Service": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.8",
+          "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.5",
           "Swashbuckle.AspNetCore": "6.7.0"
         },

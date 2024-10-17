@@ -23,6 +23,8 @@ builder.Services.AddScoped<IResultService, ResultService>();
 builder.Services.AddScoped<ResultService>();
 builder.Services.AddScoped<IJudgeService, JudgeService>();
 builder.Services.AddScoped<JudgeService>();
+builder.Services.AddScoped<IJudgesCriteriaService, JudgesCriteriaService>();
+builder.Services.AddScoped<IContestService, ContestService>();
 
 
 builder.Services.AddControllers();
