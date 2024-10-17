@@ -32,3 +32,15 @@ E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSy
 E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
 E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
 E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.deps.json
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.dll
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfoInputs.cache
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfo.cs
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.csproj.CoreCompileInputs.cache
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.sourcelink.json
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.dll
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll

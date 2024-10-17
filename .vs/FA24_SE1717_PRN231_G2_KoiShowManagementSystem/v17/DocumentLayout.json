@@ -1,10 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\",
+  "WorkspaceRootPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|e:\\study\\fptu\\ky 8\\prn231\\project\\mergecodeproject\\groupdemo\\koishowmanagementsystem.mvcwebapp\\controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.apiservice\\controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|solutionrelative:koishowmanagementsystem.apiservice\\controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB1FB8-9100-4BBC-BD36-9632574E665D}|KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.service\\judgescriteriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AB1FB8-9100-4BBC-BD36-9632574E665D}|KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj|solutionrelative:koishowmanagementsystem.service\\judgescriteriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB1FB8-9100-4BBC-BD36-9632574E665D}|KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.service\\contestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AB1FB8-9100-4BBC-BD36-9632574E665D}|KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj|solutionrelative:koishowmanagementsystem.service\\contestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.apiservice\\controllers\\judgescriterionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|solutionrelative:koishowmanagementsystem.apiservice\\controllers\\judgescriterionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.apiservice\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|solutionrelative:koishowmanagementsystem.apiservice\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.apiservice\\controllers\\judgescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|solutionrelative:koishowmanagementsystem.apiservice\\controllers\\judgescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\controllers\\judgescriterionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\judgescriterionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\controllers\\contestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\contestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\controllers\\judgescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\judgescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\contests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\contests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\contests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\contests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\contests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\contests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\contests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\contests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\views\\results\\resultindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\results\\resultindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49FB753-C2F8-4370-A1CD-BE2C372590CD}|KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.data\\models\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49FB753-C2F8-4370-A1CD-BE2C372590CD}|KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj|solutionrelative:koishowmanagementsystem.data\\models\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49FB753-C2F8-4370-A1CD-BE2C372590CD}|KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.data\\models\\koi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49FB753-C2F8-4370-A1CD-BE2C372590CD}|KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj|solutionrelative:koishowmanagementsystem.data\\models\\koi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49FB753-C2F8-4370-A1CD-BE2C372590CD}|KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.data\\repository\\contestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49FB753-C2F8-4370-A1CD-BE2C372590CD}|KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj|solutionrelative:koishowmanagementsystem.data\\repository\\contestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|solutionrelative:koishowmanagementsystem.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.apiservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|solutionrelative:koishowmanagementsystem.apiservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\models\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\models\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|d:\\git prn\\net1711_231_prj_g2_koishowmana\\koishowmanagementsystem.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98B9AEA7-6EDE-4C06-8AEE-4A6961304ED2}|KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj|solutionrelative:koishowmanagementsystem.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 36,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,11 +130,27 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
               "$type": "Bookmark",
@@ -34,20 +158,478 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JudgesCriteriaService.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\JudgesCriteriaService.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.Service\\JudgesCriteriaService.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\JudgesCriteriaService.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.Service\\JudgesCriteriaService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAIwFAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:42:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.APIService\\Controllers\\ResultsController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.APIService\\Controllers\\ResultsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:42:50.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JudgesController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\JudgesController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.APIService\\Controllers\\JudgesController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\JudgesController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.APIService\\Controllers\\JudgesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:42:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JudgesCriterionsController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\JudgesCriterionsController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.APIService\\Controllers\\JudgesCriterionsController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\JudgesCriterionsController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.APIService\\Controllers\\JudgesCriterionsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:41:03.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContestsController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestsController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestsController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestsController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestsController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAYwLcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:03:24.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JudgesCriterionsController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesCriterionsController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesCriterionsController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesCriterionsController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesCriterionsController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAA2wAABAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:01:24.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContestService.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\ContestService.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.Service\\ContestService.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\ContestService.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.Service\\ContestService.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAowHEAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:59:53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContestController.cs",
-              "DocumentMoniker": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
-              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
-              "ToolTip": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
-              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\ContestController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.APIService\\Controllers\\ContestController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Controllers\\ContestController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.APIService\\Controllers\\ContestController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBwAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:51:02.94Z",
+              "WhenOpened": "2024-10-17T06:43:51.326Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Index.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Index.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:06:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:06:58.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:09:36.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:01:17.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:09:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JudgesController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\JudgesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:01:22.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Edit.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Edit.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:25:43.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Create.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Create.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Create.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:24:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Details.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Details.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Details.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Contests\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:29:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultsController.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA2wEYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:01:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResultIndex.cshtml",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:08:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Program.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Program.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:06:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contest.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\Models\\Contest.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.Data\\Models\\Contest.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\Models\\Contest.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.Data\\Models\\Contest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:50:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.APIService\\WeatherForecast.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\WeatherForecast.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.APIService\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:57.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Program.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.APIService\\Program.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\Program.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.APIService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:56.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContestRepository.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\Repository\\ContestRepository.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.Data\\Repository\\ContestRepository.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\Repository\\ContestRepository.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.Data\\Repository\\ContestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:44:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Koi.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\Models\\Koi.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.Data\\Models\\Koi.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\Models\\Koi.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.Data\\Models\\Koi.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:51:04.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Contest.cs",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Models\\Contest.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Models\\Contest.cs",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\Models\\Contest.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Models\\Contest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:43:30.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\appsettings.json",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.MVCWebApp\\appsettings.json",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T06:42:12.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\appsettings.json",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.APIService\\appsettings.json",
+              "ToolTip": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\appsettings.json",
+              "RelativeToolTip": "KoiShowManagementSystem.APIService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T06:41:47.956Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

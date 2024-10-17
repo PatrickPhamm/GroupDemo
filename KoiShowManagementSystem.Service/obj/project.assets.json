@@ -3149,23 +3149,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Phi\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj",
+      "projectUniqueName": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj",
       "projectName": "KoiShowManagementSystem.Service",
-      "projectPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj",
-      "packagesPath": "C:\\Users\\Phi\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Service\\obj\\",
+      "projectPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Phi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3174,18 +3174,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Common\\KoiShowManagementSystem.Common.csproj": {
-              "projectPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Common\\KoiShowManagementSystem.Common.csproj"
+            "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Common\\KoiShowManagementSystem.Common.csproj": {
+              "projectPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Common\\KoiShowManagementSystem.Common.csproj"
             },
-            "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj": {
-              "projectPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj"
+            "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj": {
+              "projectPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj"
             }
           }
         }
@@ -3220,7 +3219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
