@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\",
+  "WorkspaceRootPath": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|c:\\myprofile\\baihoc\\semester_8\\prn231\\projects\\fa24_se1717_prn231_g2_koishowmanagementsystem - copy\\koishowmanagementsystem.mvcwebapp\\views\\results\\resultindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\views\\results\\resultindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|c:\\myprofile\\baihoc\\semester_8\\prn231\\projects\\fa24_se1717_prn231_g2_koishowmanagementsystem - copy\\koishowmanagementsystem.mvcwebapp\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\resultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|c:\\myprofile\\baihoc\\semester_8\\prn231\\projects\\fa24_se1717_prn231_g2_koishowmanagementsystem - copy\\koishowmanagementsystem.mvcwebapp\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AB1FB8-9100-4BBC-BD36-9632574E665D}|KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj|c:\\myprofile\\baihoc\\semester_8\\prn231\\projects\\fa24_se1717_prn231_g2_koishowmanagementsystem - copy\\koishowmanagementsystem.service\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AB1FB8-9100-4BBC-BD36-9632574E665D}|KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj|solutionrelative:koishowmanagementsystem.service\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|e:\\study\\fptu\\ky 8\\prn231\\project\\mergecodeproject\\groupdemo\\koishowmanagementsystem.mvcwebapp\\controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99FD2BEF-FB2E-4B35-8C88-F1101B4E2143}|KoiShowManagementSystem.MVCWebApp\\KoiShowManagementSystem.MVCWebApp.csproj|solutionrelative:koishowmanagementsystem.mvcwebapp\\controllers\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,39 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.MVCWebApp\\Models\\Result.cs",
-              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Models\\Result.cs",
-              "ToolTip": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.MVCWebApp\\Models\\Result.cs",
-              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Models\\Result.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:00:11.822Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResultService.cs",
-              "DocumentMoniker": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.Service\\ResultService.cs",
-              "RelativeDocumentMoniker": "KoiShowManagementSystem.Service\\ResultService.cs",
-              "ToolTip": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.Service\\ResultService.cs",
-              "RelativeToolTip": "KoiShowManagementSystem.Service\\ResultService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:15:34.13Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ResultIndex.cshtml",
-              "DocumentMoniker": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
-              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
-              "ToolTip": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
-              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Views\\Results\\ResultIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T23:55:04.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResultsController.cs",
-              "DocumentMoniker": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
-              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
-              "ToolTip": "C:\\MyProfile\\BaiHoc\\Semester_8\\PRN231\\Projects\\FA24_SE1717_PRN231_G2_KoiShowManagementSystem - Copy\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
-              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ResultsController.cs",
-              "ViewState": "AQIAAEkBAAAAAAAAAAAYwHUBAAAAAAAA",
+              "Title": "ContestController.cs",
+              "DocumentMoniker": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
+              "RelativeDocumentMoniker": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
+              "ToolTip": "E:\\Study\\FPTU\\Ky 8\\PRN231\\Project\\MergeCodeProject\\GroupDemo\\KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
+              "RelativeToolTip": "KoiShowManagementSystem.MVCWebApp\\Controllers\\ContestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T02:51:43.595Z",
+              "WhenOpened": "2024-10-17T01:51:02.94Z",
               "EditorCaption": ""
             }
           ]
