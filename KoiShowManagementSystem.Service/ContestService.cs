@@ -15,6 +15,8 @@ namespace KoiShowManagementSystem.Service
         Task<IBusinessResult> GetAll();
         Task<IBusinessResult> GetContestById(int contestId);
         Task<IBusinessResult> Save(Contest contest);
+        Task<IBusinessResult> DeleteById(int code);
+        Task<IBusinessResult> Update(Contest contest);
     }
 
     public class ContestService : IContestService
@@ -24,6 +26,36 @@ namespace KoiShowManagementSystem.Service
         {
             _unitOfWork ??= new UnitOfWork();
         }
+
+        public async Task<IBusinessResult> DeleteById(int code)
+        {
+            try
+            {
+                var kois = await _unitOfWork.contestRepository.GetByIdAsync(code);
+                if (kois == null)
+                {
+                    return new BusinessResult(Const.WARNING_NO_DATA_CODE, Const.WARNING_NO_DATA_MSG, new Contest());
+                }
+                else
+                {
+                    var result = await _unitOfWork.contestRepository.RemoveAsync(kois);
+                    if (result)
+                    {
+                        return new BusinessResult(Const.SUCCESS_DELETE_CODE, Const.SUCCESS_DELETE_MSG, kois);
+                    }
+                    else
+                    {
+                        return new BusinessResult(Const.FAIL_DELETE_CODE, Const.FAIL_DELETE_MSG, kois);
+                    }
+
+                }
+            }
+            catch (Exception ex)
+            {
+                return new BusinessResult(Const.FAIL_DELETE_CODE, ex.ToString());
+            }
+        }
+
         public async Task<IBusinessResult> GetAll()
         {
             var contest = await _unitOfWork.contestRepository.GetAllAsync();
@@ -63,6 +95,27 @@ namespace KoiShowManagementSystem.Service
                 else
                 {
                     return new BusinessResult(Const.FAIL_UPDATE_CODE, Const.FAIL_UPDATE_MSG);
+                }
+            }
+            catch (Exception ex)
+            {
+                return new BusinessResult(-4, ex.ToString());
+            }
+        }
+
+        public async Task<IBusinessResult> Update(Contest contest)
+        {
+            try
+            {
+                var result = await _unitOfWork.contestRepository.UpdateAsync(contest);
+
+                if (result > 0)
+                {
+                    return new BusinessResult(Const.SUCCESS_UPDATE_CODE, Const.SUCCESS_UPDATE_MSG);
+                }
+                else
+                {
+                    return new BusinessResult(Const.FAIL_UPDATE_CODE, Const.FAIL_UPDATE_MSG, result);
                 }
             }
             catch (Exception ex)

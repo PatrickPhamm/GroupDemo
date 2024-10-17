@@ -1,0 +1,16 @@
+
+.vs/
+
+
+obj/
+bin/
+
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+debug/
+Debug/

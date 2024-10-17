@@ -25,11 +25,25 @@ namespace KoiShowManagementSystem.APIService.Controllers
             return await _service.GetContestById(id);
         }
 
+        [HttpPut]
+        public async Task<IBusinessResult> PutContest(Contest contest)
+        {
+
+            return await _service.Update(contest);
+        }
+
         [HttpPost]
         public async Task<IBusinessResult> PostContest(Contest contest)
         {
             //return await _service.Save(koi);
             return await _service.Save(contest);
         }
+
+        [HttpDelete("{id}")]
+        public async Task<IBusinessResult> DeleteContest(int id)
+        {
+            return await _service.DeleteById(id);
+        }
     }
 }
+

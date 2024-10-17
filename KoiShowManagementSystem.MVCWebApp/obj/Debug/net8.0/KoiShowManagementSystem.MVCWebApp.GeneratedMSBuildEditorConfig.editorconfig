@@ -17,87 +17,103 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiShowManagementSystem.MVCWebApp
 build_property.RootNamespace = KoiShowManagementSystem.MVCWebApp
-build_property.ProjectDir = E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.MVCWebApp\
+build_property.ProjectDir = D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.MVCWebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Study\FPTU\Ky 8\PRN231\Project\MergeCodeProject\GroupDemo\KoiShowManagementSystem.MVCWebApp
+build_property.MSBuildProjectDirectory = D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.MVCWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Contest/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdFxJbmRleC5jc2h0bWw=
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Home/Index.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Home/Privacy.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCCreate.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDelete.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDetails.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCEdit.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCIndex.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Judges/Index.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Judges/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultCreate.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHRDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDelete.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHREZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDetails.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHREZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultEdit.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHRFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultIndex.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHRJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Shared/Error.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/_ViewImports.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/_ViewStart.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Study/FPTU/Ky 8/PRN231/Project/MergeCodeProject/GroupDemo/KoiShowManagementSystem.MVCWebApp/Views/Shared/_Layout.cshtml]
+[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mmdqvyuhjg

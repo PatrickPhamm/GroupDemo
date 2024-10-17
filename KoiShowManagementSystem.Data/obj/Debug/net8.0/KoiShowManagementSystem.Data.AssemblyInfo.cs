@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KoiShowManagementSystem.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6346984c2c3a04bc5d0838a42484319ecba1d806")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+629d77944219a5eb08b001056e397d4d779ec465")]
 [assembly: System.Reflection.AssemblyProductAttribute("KoiShowManagementSystem.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KoiShowManagementSystem.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
