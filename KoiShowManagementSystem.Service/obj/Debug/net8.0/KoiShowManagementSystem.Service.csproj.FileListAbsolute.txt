@@ -68,3 +68,21 @@ D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\De
 D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\refint\KoiShowManagementSystem.Service.dll
 D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.pdb
 D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\ref\KoiShowManagementSystem.Service.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.sourcelink.json
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\refint\KoiShowManagementSystem.Service.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.pdb
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Service.deps.json
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Service.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Service.pdb
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Common.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Data.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\bin\Debug\net8.0\KoiShowManagementSystem.Data.pdb
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\KoiShowManagementSystem.Service.csproj.CopyComplete
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Service\obj\Debug\net8.0\ref\KoiShowManagementSystem.Service.dll

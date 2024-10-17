@@ -1,5 +1,6 @@
 ﻿using KoiShowManagementSystem.Data.Models;
 using KoiShowManagementSystem.Data.Repository;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,8 @@ namespace KoiShowManagementSystem.Data
         private JudgeRepository _judgeRepository;
         private JudgesCriteriaRepository judgesCriteriarepository;
         private ContestRepository _contestRepository;
+        private KoiRepository _koiRepository;
+        private ApplicationRepository _applicationRepository;
 
         public UnitOfWork() {
             context ??= new FA24_SE1717_PRN231_G2_KoiShowManagementSystemContext();
@@ -37,6 +40,14 @@ namespace KoiShowManagementSystem.Data
         public ContestRepository contestRepository
         {
             get { return _contestRepository ??= new ContestRepository(context); }
+        }
+        public KoiRepository koiRepository
+        {
+            get { return _koiRepository ??= new KoiRepository(context); }
+        }
+        public ApplicationRepository applicationRepository
+        {
+            get { return _applicationRepository ??= new ApplicationRepository(context); }
         }
 
         ////TO-DO CODE HERE/////////////////

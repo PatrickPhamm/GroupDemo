@@ -8546,23 +8546,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Acer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Prj\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
       "projectName": "KoiShowManagementSystem.APIService",
-      "projectPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\Prj\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\KoiShowManagementSystem.APIService.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\Prj\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.APIService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8571,17 +8571,19 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\Acer\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj": {
-              "projectPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj"
+            "C:\\Users\\Acer\\Desktop\\Prj\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Desktop\\Prj\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Data\\KoiShowManagementSystem.Data.csproj"
             },
-            "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj": {
-              "projectPath": "D:\\Git PRN\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj"
+            "C:\\Users\\Acer\\Desktop\\Prj\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Desktop\\Prj\\Net1711_231_PRJ_G2_KoiShowMana\\KoiShowManagementSystem.Service\\KoiShowManagementSystem.Service.csproj"
             }
           }
         }
@@ -8590,11 +8592,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8637,7 +8634,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

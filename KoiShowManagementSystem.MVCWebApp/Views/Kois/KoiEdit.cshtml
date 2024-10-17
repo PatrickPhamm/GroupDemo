@@ -1,0 +1,76 @@
+﻿@model KoiShowManagementSystem.Data.Models.Koi
+@* @model KoiShowManagementSystem.MVCWebApp.Models.Koi
+ *@
+ @{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Koi</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="KoiEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="KoiId" />
+            <div class="form-group">
+                <label asp-for="@Model.ApplicationId" class="control-label"></label>
+                @* <input asp-for="ApplicationId" class="form-control" /> *@
+                <select asp-for="@Model.ApplicationId" class="form-control" asp-items="ViewBag.ApplicationId"></select>
+                @* <span asp-validation-for="ApplicationId" class="text-danger"></span> *@
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Species" class="control-label"></label>
+                <input asp-for="Species" class="form-control" />
+                <span asp-validation-for="Species" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Breed" class="control-label"></label>
+                <input asp-for="Breed" class="form-control" />
+                <span asp-validation-for="Breed" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dayofbirth" class="control-label"></label>
+                <input asp-for="Dayofbirth" class="form-control" type="date"/>
+                <span asp-validation-for="Dayofbirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Size" class="control-label"></label>
+                <input asp-for="Size" class="form-control" />
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ColorPatern" class="control-label"></label>
+                <input asp-for="ColorPatern" class="form-control" />
+                <span asp-validation-for="ColorPatern" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HealthStatus" class="control-label"></label>
+                <input asp-for="HealthStatus" class="form-control" />
+                <span asp-validation-for="HealthStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="KoiIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

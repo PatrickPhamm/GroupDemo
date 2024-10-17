@@ -1,0 +1,191 @@
+﻿@model IEnumerable<KoiShowManagementSystem.MVCWebApp.Models.Application>
+
+@{
+    ViewData["Title"] = "AjaxApplicationIndex";
+}
+
+<div class="row">
+    <div class="col-md-10">
+        <h3 class="display-8">Application List</h3>
+    </div>
+    <div class="col-md-2 text-end">
+        <button type="button" class="btn btn-primary" onclick="add();">
+            Add
+        </button>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped table-bordered table-hover">
+            <thead>
+                <tr class="card-header">
+                    <th class="card-title text-center">ApplicationId</th>
+                    <th class="card-title text-center">KoiId</th>
+                    <th class="card-title text-center">ConstestId</th>
+                    <th class="card-title text-center">Status</th>
+                    <th class="card-title text-center">Review date</th>
+                    <th class="card-title text-center">Submission date</th>
+                    <th class="card-title text-center">Rank assigned</th>
+                    <th class="card-title text-center">Note</th>
+                    <th class="card-title text-center">Payment Status</th>
+                    <th class="card-title text-center">UserId</th>
+                    <th class="card-title text-center">Contest section</th>
+                </tr>
+            </thead>
+            <tbody class="tblApplication">
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="modal" id="applicationModal" tabindex="-1" aria-labelledby="applicationModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            @using (Html.BeginForm(null, null, FormMethod.Post, new { name = "frm", id = "frm" }))
+            {
+                @Html.AntiForgeryToken()
+                <div class="modal-header">
+                    <h5 class="modal-title" id="applicationModalLabel">Application</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <label for="1">ApplicationId</label>
+                            <input type="hidden" id="ApplicationId" />
+                            <input type="number" id="applicationId" name="applicationId" class="form-control" readonly/>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">KoiId</label>
+                            <input type="number" id="koiId" name="koiId" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">ConstestId</label>
+                            <input type="number" id="constestId" name="constestId" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">Status</label>
+                            <input type="text" id="status" name="status" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">Review Date</label>
+                            <input type="date" id="reviewDate" name="reviewDate" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">Submission Date</label>
+                            <input type="date" id="submissionDate" name="submissionDate" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">Rank Assigned</label>
+                            <input type="text" id="rankAssigned" name="rankAssigned" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">Note</label>
+                            <input type="text" id="note" name="note" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">Payment Status</label>
+                            <input type="text" id="paymentStatus" name="paymentStatus" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">UserId</label>
+                            <input type="number" id="userId" name="userId" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="1">Contest Section</label>
+                            <input type="text" id="contestSection" name="contestSection" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button id="btSave" type="button" class="btn btn-primary">Save</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            loadData();
+            $("#btSave").click(function () {
+                $.ajax({
+                    type: 'POST',
+                    url: 'http://localhost:5163/api/Application',
+                    headers: {
+                        'Accept': 'text/plain',
+                        'Content-Type': 'application/json; charset=utf-8'
+                    },
+
+                    data: JSON.stringify({
+                        applicationId: 0,
+                        koiId: $("#koiId").val(),
+                        constestId: $("#constestId").val(),
+                        status: $("#status").val(),
+                        reviewDate: $("#reviewDate").val(),
+                        submissionDate: $("#submissionDate").val(),
+                        rankAssigned: $("#rankAssigned").val(),
+                        note: $("#note").val(),
+                        paymentStatus: $("#paymentStatus").val(),
+                        userId: $("#userId").val(),
+                        contestSection: $("#contestSection").val(),
+                    })
+                    ,
+                    success: function (result) {
+                        if (result.status >= 1) {
+                            $('#applicationModal').modal('hide');
+                            loadData();
+                        }
+                        alert(result.message);
+                    },
+                    error: function (xhr, error) {
+                        alert(xhr.responseText);
+                        console.log(xhr);
+                    }
+                });
+            })
+        });
+
+        function loadData() {
+            alert("Load data progressing ...");
+            $.ajax({
+                url: 'http://localhost:5163/api/Application',
+                type: "GET",
+                contentType: "application/json;charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    alert('Server response: ' + result.message)
+                    var html = '';
+                    $.each(result.data, function (key, item) {
+                        //console.log(item);
+                        html += '<tr>';
+                        html += '<td>' + item.applicationId + '</td>';
+                        html += '<td>' + item.koiId + '</td>';
+                        html += '<td>' + item.constestId + '</td>';
+                        html += '<td>' + item.status + '</td>';
+                        html += '<td>' + item.reviewDate + '</td>';
+                        html += '<td>' + item.submissionDate + '</td>';
+                        html += '<td>' + item.rankAssigned + '</td>';
+                        html += '<td>' + item.note + '</td>';
+                        html += '<td>' + item.paymentStatus + '</td>'; 
+                        html += '<td>' + item.userId + '</td>';
+                        html += '<td>' + item.contestSection + '</td>';
+                        html += '</tr>';
+                    });
+                    $('.tblApplication').html(html);
+                },
+                error: function (xhr, error) {
+                    alert(xhr.statusText);
+                }
+            });
+        }
+        function add() {
+            //alert("Save function");
+            $("applicationModalLabel").html("Add New");
+            $('#applicationModal').modal('show');
+        }
+    </script>
+}

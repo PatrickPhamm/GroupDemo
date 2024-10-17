@@ -1,0 +1,90 @@
+﻿@model IEnumerable<KoiShowManagementSystem.Data.Models.Koi>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="KoiCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.KoiId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplicationId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Species)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Breed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dayofbirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ColorPatern)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HealthStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KoiId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ApplicationId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Species)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Breed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dayofbirth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Size)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ColorPatern)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HealthStatus)
+                </td>
+                <td>
+                    <a asp-action="KoiEdit" asp-route-id="@item.KoiId">Edit</a> |
+                    <a asp-action="KoiDetails" asp-route-id="@item.KoiId">Details</a> |
+                    <a asp-action="KoiDelete" asp-route-id="@item.KoiId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

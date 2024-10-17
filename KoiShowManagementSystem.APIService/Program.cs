@@ -25,6 +25,8 @@ builder.Services.AddScoped<IJudgeService, JudgeService>();
 builder.Services.AddScoped<JudgeService>();
 builder.Services.AddScoped<IJudgesCriteriaService, JudgesCriteriaService>();
 builder.Services.AddScoped<IContestService, ContestService>();
+builder.Services.AddScoped<IKoiBusiness, KoiService>();
+builder.Services.AddScoped<IApplicationBusiness, ApplicationService>();
 
 
 builder.Services.AddControllers();

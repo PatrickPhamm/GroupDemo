@@ -17,103 +17,127 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiShowManagementSystem.MVCWebApp
 build_property.RootNamespace = KoiShowManagementSystem.MVCWebApp
-build_property.ProjectDir = D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.MVCWebApp\
+build_property.ProjectDir = C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.MVCWebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.MVCWebApp
+build_property.MSBuildProjectDirectory = C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.MVCWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Create.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Applications/AjaxApplicationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXEFqYXhBcHBsaWNhdGlvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Delete.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Details.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Edit.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Index.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Contests/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVzdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Home/Index.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Home/Privacy.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCCreate.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDelete.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDetails.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCEdit.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCIndex.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/JudgesCriterions/JCIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzQ3JpdGVyaW9uc1xKQ0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Judges/Index.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Judges/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVkZ2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultCreate.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Kois/KoiCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29pc1xLb2lDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Kois/KoiDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29pc1xLb2lEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Kois/KoiDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29pc1xLb2lEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Kois/KoiEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29pc1xLb2lFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Kois/KoiIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29pc1xLb2lJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHRDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDelete.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHREZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDetails.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHREZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultEdit.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHRFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultIndex.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Results/ResultIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0c1xSZXN1bHRJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/Error.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/_ViewImports.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/_ViewStart.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git PRN/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Acer/Desktop/Prj/Net1711_231_PRJ_G2_KoiShowMana/KoiShowManagementSystem.MVCWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mmdqvyuhjg

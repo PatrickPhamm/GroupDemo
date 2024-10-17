@@ -44,3 +44,15 @@ D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Deb
 D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
 D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
 D:\Git PRN\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.deps.json
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\bin\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.sourcelink.json
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\refint\KoiShowManagementSystem.Common.dll
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\KoiShowManagementSystem.Common.pdb
+C:\Users\Acer\Desktop\Prj\Net1711_231_PRJ_G2_KoiShowMana\KoiShowManagementSystem.Common\obj\Debug\net8.0\ref\KoiShowManagementSystem.Common.dll
